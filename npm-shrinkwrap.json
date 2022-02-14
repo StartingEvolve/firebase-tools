@@ -67,7 +67,8 @@
         "uuid": "^8.3.2",
         "winston": "^3.0.0",
         "winston-transport": "^4.4.0",
-        "ws": "^7.2.3"
+        "ws": "^7.2.3",
+        "xmlhttprequest": "^1.8.0"
       },
       "bin": {
         "firebase": "lib/bin/firebase.js"
@@ -13281,7 +13282,6 @@
       "version": "1.8.0",
       "resolved": "https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz",
       "integrity": "sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw=",
-      "dev": true,
       "engines": {
         "node": ">=0.4.0"
       }
@@ -23952,8 +23952,7 @@
     "xmlhttprequest": {
       "version": "1.8.0",
       "resolved": "https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz",
-      "integrity": "sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw=",
-      "dev": true
+      "integrity": "sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw="
     },
     "xregexp": {
       "version": "2.0.0",

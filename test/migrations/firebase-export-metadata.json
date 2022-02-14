@@ -1,0 +1,12 @@
+{
+  "version": "10.1.0",
+  "firestore": {
+    "version": "1.13.1",
+    "path": "v1",
+    "metadata_file": "v1/v1.overall_export_metadata"
+  },
+  "auth": {
+    "version": "10.1.0",
+    "path": "auth_export"
+  }
+}
