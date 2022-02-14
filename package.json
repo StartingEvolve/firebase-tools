@@ -1,5 +1,5 @@
 {
-  "name": "firebase-tools",
+  "name": "@StartingEvolve/firebase-tools",
   "version": "10.2.0",
   "description": "Command-Line Interface for Firebase",
   "main": "./lib/index.js",
@@ -41,7 +41,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebase-tools.git"
+    "url": "https://github.com/StartingEvolve/firebase-tools"
   },
   "keywords": [
     "cdn",
@@ -65,7 +65,7 @@
   },
   "homepage": "https://github.com/firebase/firebase-tools",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@StartingEvolve"
   },
   "nyc": {
     "require": [
