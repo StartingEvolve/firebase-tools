@@ -65,7 +65,7 @@
   },
   "homepage": "https://github.com/firebase/firebase-tools",
   "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "nyc": {
     "require": [
