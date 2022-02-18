@@ -1,5 +1,5 @@
 {
-  "name": "@StartingEvolve/firebase-tools",
+  "name": "@startingevolve/firebase-tools",
   "version": "10.2.0",
   "description": "Command-Line Interface for Firebase",
   "main": "./lib/index.js",
@@ -65,7 +65,7 @@
   },
   "homepage": "https://github.com/firebase/firebase-tools",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@StartingEvolve"
+    "registry": "https://npm.pkg.github.com/@startingevolve"
   },
   "nyc": {
     "require": [

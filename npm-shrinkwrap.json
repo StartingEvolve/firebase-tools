@@ -1,11 +1,11 @@
 {
-  "name": "firebase-tools",
+  "name": "@startingevolve/firebase-tools",
   "version": "10.2.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "firebase-tools",
+      "name": "@startingevolve/firebase-tools",
       "version": "10.2.0",
       "license": "MIT",
       "dependencies": {
